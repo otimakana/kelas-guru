@@ -3,7 +3,7 @@
 
 // Replace with your deployed Google Apps Script web app URL
 const API_URL =
-  'https://script.google.com/macros/s/AKfycbxsXNa_SLVyp9zio3G7wxoeyU57TPN-rTXQ6_VtOmlNVb4UzSRoP1-emKTLKu54RP3xUQ/exec'
+  'https://script.google.com/macros/s/AKfycbyE9zhzSk-RpiW1cztelyzeMiRtNqzNkbYWL3cFVHJHLVfg2CpGWmejGALeCT5F3F8n_g/exec'
 
 // Generic API function for making requests to the GAS backend
 async function callApi(action, params = {}) {
